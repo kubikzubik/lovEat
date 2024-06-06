@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lovEat/static/css/main.975897d1.css",
-    "main.js": "/lovEat/static/js/main.37629d8d.js",
+    "main.js": "/lovEat/static/js/main.d0b01d0a.js",
     "static/media/povar.png": "/lovEat/static/media/povar.7819fb12ddadaa8af622.png",
     "static/media/povar2.jpeg": "/lovEat/static/media/povar2.e1e156a140405531923d.jpeg",
     "index.html": "/lovEat/index.html",
     "main.975897d1.css.map": "/lovEat/static/css/main.975897d1.css.map",
-    "main.37629d8d.js.map": "/lovEat/static/js/main.37629d8d.js.map"
+    "main.d0b01d0a.js.map": "/lovEat/static/js/main.d0b01d0a.js.map"
   },
   "entrypoints": [
     "static/css/main.975897d1.css",
-    "static/js/main.37629d8d.js"
+    "static/js/main.d0b01d0a.js"
   ]
 }
